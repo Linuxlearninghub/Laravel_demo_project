@@ -7,7 +7,7 @@ This is a Dockerized Laravel Application built using the following containers:
 
 - **PHP Application**
 
-    `PHP8.0-fpm, Composer, NPM, Node.js v14.x`
+    `PHP8.0-fpm, Composer, NPM,
 
 - **MySQL**
 
