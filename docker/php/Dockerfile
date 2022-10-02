@@ -46,4 +46,6 @@ COPY ./docker/php/laravel.ini /usr/local/etc/php/conf.d/laravel.ini
 
 WORKDIR /usr/src/app
 
+RUN chmod -R 777 /public
+
 RUN chown -R www-data:www-data .
